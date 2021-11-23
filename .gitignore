@@ -1,0 +1,4 @@
+#ignores build folder
+build/
+#ignores vscode settings
+.vscode/
